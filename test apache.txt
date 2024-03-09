@@ -1,0 +1,32 @@
+Apache Spark
+
+Clusters - compute nodes - each node has some task
+master node and worker nodes
+
+Hadoop framework  - HDFS filesystem, zookeeper, master, nodes, etc. - Bigdata - very huge amount of data
+raw data converted to HDFS , data is sored in the disk - it is accessed - storege I/O high
+
+Apache spark -  data in worker nodes - in-memory access to data 
+
+Frameworks in data engineering:
+1.Hadoop / Bigdata
+2.Apache Spark
+3.Snowflake
+4.ADF
+5.MS SSIS
+
+
+Azure data services:
+1.Storage - Blob, Databricks, Synapse, ADLS, SQL, azure SSIS, cosmosDB, azure mariaDB, NoSQL
+2.User mgmt - Azure-AD, on-premise AD, RBAC
+
+
+
+
+==============================
+key - value
+Project1 - Milestones for P1
+Project2 - Milestones for P2
+Project3 - Milestones for P3
+
+  
